@@ -1,0 +1,20 @@
+{
+  "maintenance": false,
+  "keys": {
+    "PS-2024-AAA111": {
+      "name": "User 1",
+      "expiry": "2025-01-31",
+      "status": "active"
+    },
+    "PS-2024-BBB222": {
+      "name": "User 2",
+      "expiry": "2025-02-15",
+      "status": "active"
+    },
+    "PS-2024-CCC333": {
+      "name": "User 3",
+      "expiry": "2025-03-01",
+      "status": "banned"
+    }
+  }
+}
